@@ -13,13 +13,9 @@
 							</div>
                             <p class="mm-t5">We are specialised in the business of providing smart solution for Cutting Tools &
 Lubricants...</p>
-							<ul class="contact-info-bx">
-                                <li><i class="ti-location-pin"></i><strong>Office Address :</strong> 1, Sadanad Apartment, Model Colony,
-Shivajinagar, Pune- 411016</li>
-<li><i class="ti-location-pin"></i><strong>Work :</strong> BG/Se/11/3 Nr Tele. Exelen., MIDC Bhosari, Pune- 411039<br>
-Mall id : <a href="mailto:info@ptspro.in">info@ptspro.in</a> & Contact : <a href="tel:8530307007">8530307007</a>
-                                <li><i class="ti-email"></i><strong>Email</strong> <a href="mailto:info@ptspro.in">info@ptspro.in</a></li>
-								<li><i class="ti-mobile"></i><strong>Phone</strong> <a href="tel:8530307007">8530307007</a></li>
+						<li><i class="ti-location-pin"></i><strong>Address :</strong> BG/Se/11/3 Nr Tele. Exelen., MIDC Bhosari, Pune- 411039<br>Mall id : <a href="mailto:sales@ptslubricants.com">sales@ptslubricants.com</a> & Contact : <a href="tel:8530307007">8530307007</a>
+                        <li><i class="ti-email"></i><strong>Email</strong> <a href="mailto:isales@ptslubricants.com"> 	sales@ptslubricants.com</a></li>
+								<li><i class="ti-mobile"></i><strong>Phone</strong> <a href="tel:8530307007"> 8530307007</a></li>
                             </ul>
                         </div>
                     </div>

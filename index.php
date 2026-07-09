@@ -16,7 +16,7 @@ require_once 'components/header.php';
 				</div>
 			</div>
 			<?php require_once 'components/states.php';?>
-			<?php require_once 'components/products.php';?>
+			<?php //require_once 'components/products.php';?>
 			<?php require_once 'components/downlaod.php';?>
 			<?php require_once 'components/team.php';?>
 			<?php require_once 'components/testimonial.php';?>

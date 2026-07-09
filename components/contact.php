@@ -14,12 +14,13 @@
 						<hr>
 						<div class="col-md-6 col-sm-6 col-xs-12">
 							<h2><?php echo SITE_TITLE;?></h2>
-                                <h3><i class="ti-location-pin"></i><strong>Office Address :</strong></h3>
+                                <!-- <h3><i class="ti-location-pin"></i><strong>Office Address :</strong></h3>
                                 <h4> 1, Sadanad Apartment, Model Colony,<br>
-Shivajinagar, Pune -411016</h4><br>
-<h3><i class="ti-location-pin"></i><strong>Work :</strong></h3>
+Shivajinagar, Pune -411016</h4><br> -->
+<h3><i class="ti-location-pin"></i><strong>Address: </strong></h3>
 <h4> BG/Se/11/3 Nr Tele. Exelen,<br> MIDC Bhosari, Pune- 411039</h4>
-                                <h4><i class="ti-email"></i><strong>&nbsp;Email </strong>  <a href="mailto:info@ptspro.in">info@ptspro.in</a></h4>
+                                <h4><i class="ti-email"></i><strong>&nbsp;Email </strong>  <a href="mailto:sales@ptslubricants.com
+">sales@ptslubricants.com</a></h4>
 								<h4><i class="ti-mobile"></i><strong>&nbsp;Phone </strong> <a href="tel:8530307007">8530307007</a></h4>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-12" >

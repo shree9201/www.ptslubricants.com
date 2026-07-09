@@ -44,7 +44,7 @@ define("SITE_TITLE", "Pandhare Tech Pro Solutions");
 define("OWNERNAME", "Tushar Pandhare");
 define("OWNERCONTACTNUMBER", "9890201014");
 define("OWNERWHATSAPPNUMBER", "8530307007");
-define("OWNEREMAIL", "info@ptspro.in");
+define("OWNEREMAIL", "sales@ptslubricants.com");
 
 
 define("SITE_URL", $siteUrl);

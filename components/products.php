@@ -1,7 +1,7 @@
 <div class="section-full content-inner bg-white" id="products" style="background-image: url(images/pattern/pt13.png);">
 				<div class="container">
 					<div class="section-head text-center">
-						<h5 class="title-small">Your Tooling Partner</h5>
+						<h5 class="title-small">Your Partner</h5>
 						<div class="dlab-separator-outer">
 							<div class="dlab-separator bg-primary style-skew"></div>
 						</div>
