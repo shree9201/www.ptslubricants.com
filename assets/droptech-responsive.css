@@ -1,0 +1,78 @@
+/*********************************************************
+/* File Name        : droptech-responsive.css
+// Craeted By       : Vishwajeet Mahadik
+// Created Date     : 23-July-2017
+// File Modified By : Vishwajeet Mahadik
+// Modify  Date     : 23-July-2017
+/* Description      : This is droptech build responsive main file
+/**********************************************************/
+@CHARSET "ISO-8859-1";
+/* =============================================================================*/
+ /* All type of mobile screen resolution common factor css
+ /* =============================================================================*/
+ @media (min-width: 320px) and (max-width: 	767px) {
+	.mobileOnly {display: block;}
+	.tableOnly{display: block;}
+	.desktopOnly{display: none;}
+	body.read .site-search , body.read .offcanvas-toggler {
+		
+	}
+.indexPage{
+    top: 215px;
+}
+.p-md-4d875 {
+	padding: 10px!important;
+}
+.tg-bookimg {
+	width: auto;
+}
+}
+
+/* =============================================================================*/
+/* Part-I  Very small devices means Resolution renge (320-480)*/
+/* =============================================================================*/
+ @media (min-width: 320px) and (max-width: 480px) {
+	.mobileOnly {display: block;}
+	.tableOnly{display: none;}
+	.desktopOnly{display: none;}
+}
+
+/* =============================================================================*/
+ /* Part-II  Medium devices means Resolution range (481-800)*/
+ /* =============================================================================*/
+ @media (min-width: 481px) and (max-width: 800px) {
+.mobileOnly {display: block;}
+	.tableOnly{display: none;}
+	.desktopOnly{display: none;}
+}
+
+/* =============================================================================*/
+ /* Part-III  Tablet devices means Resolution range (801-1020)*/
+ /* =============================================================================*/
+ @media (min-width: 320px) and (max-width: 990px) {
+.mobileOnly {display: block;}
+	.tableOnly{display: block;}
+	.desktopOnly{display: none;}
+	#entertainment .list-mig-lc-img img {
+		min-height: auto;
+	}
+}
+
+ /* Extra media query created by vishwajeet for extra landscape tablet view */
+ @media (min-width: 768px) and (max-width: 960px) {
+.mobileOnly {display: none;}
+	.tableOnly{display: block;}
+	.desktopOnly{display: none;}
+ }
+@media (min-width: 320px) and (max-width: 768px) {
+ 
+ }
+ @media(min-width: 767px){
+ }
+ @media (max-width:500px){
+
+}
+@media (max-width:1200px){
+
+}
+/* End file code */

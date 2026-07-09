@@ -1,0 +1,5 @@
+[01-Jul-2025 11:59:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/ub1wtk1s2bni/public_html/service/constant.php:194
+Stack trace:
+#0 /home/ub1wtk1s2bni/public_html/service/constant.php(211): Send_SMS('7875725373', 'Dear Guest, Tha...')
+#1 {main}
+  thrown in /home/ub1wtk1s2bni/public_html/service/constant.php on line 194
